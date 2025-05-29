@@ -3,7 +3,8 @@
 Simulador de Encontro e Batalha Pokémon
 Este projeto é uma simulação simples de um jogo em Java inspirado no universo Pokémon. Ele permite ao jogador encontrar Pokémon, adicioná-los à sua equipe, visualizar uma Pokédex e realizar batalhas. O sistema é modularizado em diversas classes, facilitando a manutenção e extensão do código.
 
-Funcionalidades
+# Funcionalidades:
+
 Captura de Pokémon: Simulação de encontros aleatórios com Pokémon que podem ser capturados e adicionados à equipe do jogador.
 
 Equipe do Jogador: Gerenciamento de uma equipe com limite de Pokémon.
@@ -14,7 +15,7 @@ Sistema de Batalha (básico): Possibilidade de batalhas entre Pokémon.
 
 Armazenamento em HashMap: Utilização de HashMap para gerenciamento eficiente da Pokédex.
 
-Estrutura do Projeto
+# Estrutura do Projeto
 Main.java: Classe principal que inicializa o jogo e a interface de interação com o usuário.
 
 Jogo.java: Gerencia o ciclo principal do jogo e a lógica de controle.
@@ -31,7 +32,7 @@ HashMapPokemon.java: Implementação auxiliar para simular a estrutura de armaze
 
 EncontroPokemon.java: Simula os encontros aleatórios com Pokémon selvagens.
 
-Requisitos
+# Requisitos
 Java 8 ou superior
 
 IDE compatível (Eclipse, IntelliJ, VS Code) ou compilação via terminal
