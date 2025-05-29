@@ -5,15 +5,15 @@ Este projeto é uma simulação simples de um jogo em Java inspirado no universo
 
 # Funcionalidades:
 
-Captura de Pokémon: Simulação de encontros aleatórios com Pokémon que podem ser capturados e adicionados à equipe do jogador.
+-Captura de Pokémon: Simulação de encontros aleatórios com Pokémon que podem ser capturados e adicionados à equipe do jogador.
 
-Equipe do Jogador: Gerenciamento de uma equipe com limite de Pokémon.
+-Equipe do Jogador: Gerenciamento de uma equipe com limite de Pokémon.
 
-Pokédex: Registro de todos os Pokémon encontrados, com suas respectivas entradas.
+-Pokédex: Registro de todos os Pokémon encontrados, com suas respectivas entradas.
 
-Sistema de Batalha (básico): Possibilidade de batalhas entre Pokémon.
+-Sistema de Batalha (básico): Possibilidade de batalhas entre Pokémon.
 
-Armazenamento em HashMap: Utilização de HashMap para gerenciamento eficiente da Pokédex.
+-Armazenamento em HashMap: Utilização de HashMap para gerenciamento eficiente da Pokédex.
 
 # Estrutura do Projeto
 Main.java: Classe principal que inicializa o jogo e a interface de interação com o usuário.
